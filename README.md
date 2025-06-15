@@ -5,9 +5,9 @@ Code for generating training and test data, model training, and evaluation. Used
 pip install -r requirements.txt
 
 # Usage: Generating training data, training model, and testing model
-python3 experimentPipeline.py \
-python3 precondModel.py \ 
-python3 ipm_torch.py  \
+- python3 experimentPipeline.py 
+- python3 precondModel.py 
+- python3 ipm_torch.py  
 
 Each of the above scripts takes a keyword: --size. This is either small (default) or large for experimentPipeline and precondModel, were ipm_torch also accepts unseen. 
 
