@@ -1,0 +1,16 @@
+{
+    "n_nodes": 400,
+    "density": 1306,
+    "n_sources": 8,
+    "n_sinks": 60,
+    "total_supply": 400000,
+    "min_cap": 16000,
+    "max_cap": 30000,
+    "tsources": 0,
+    "tsinks": 0,
+    "min_cost": 1,
+    "max_cost": 100,
+    "capacitated": 20, 
+    "hicost": 30
+  }
+ 

@@ -1,0 +1,12 @@
+graphviz==0.20.3
+ilupp==1.0.2
+matplotlib==3.7.5
+matplotlib==3.1.2
+numml==0.1.0
+numpy==1.20.3
+numpy==1.17.4
+pynetgen==1.0.0
+scipy==1.15.3
+torch==2.4.1+cpu
+torch_geometric==2.6.1
+torch_scatter==2.1.2+pt24cpu

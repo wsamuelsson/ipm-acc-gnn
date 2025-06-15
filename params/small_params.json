@@ -1,0 +1,16 @@
+{
+    "n_nodes": 10,
+    "density": 25,
+    "n_sources": 3,
+    "n_sinks": 3,
+    "total_supply": 100,
+    "min_cap": 10,
+    "max_cap": 25,
+    "tsources": 0,
+    "tsinks": 0,
+    "min_cost": 1,
+    "max_cost": 10,
+    "capacitated": 100, 
+    "hicost":0  
+}
+  
